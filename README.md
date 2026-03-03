@@ -48,7 +48,7 @@
 ## 🖼️ Screenshots
 | Main | Friend | Item Applied |
 |---|---|---|
-| <img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/9160cadd-ccb7-4d32-a06b-0264ef0aa3ce" /> | ![Uploading image.png…]() | <img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/498912ac-fdbb-48de-8416-6f761279ebb5" />|
+| <img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/9160cadd-ccb7-4d32-a06b-0264ef0aa3ce" /> | <img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/2ddf780e-3165-4084-96a8-1dc1a1ae4a85" /> | <img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/498912ac-fdbb-48de-8416-6f761279ebb5" />|
 
 ---
 
